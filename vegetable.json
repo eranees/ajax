@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "onion",
+    "description": "onion is famous in kashmir"
+  },
+  {
+    "id": "2",
+    "name": "potato",
+    "description": "potato is famous in kashmir"
+  },
+  {
+    "id": "3",
+    "name": "carrot",
+    "description": "carrot is famous in kashmir"
+  },
+  {
+    "id": "4",
+    "name": "brinjal",
+    "description": "brinjal is famous in kashmir"
+  },
+  {
+    "id": "5",
+    "name": "tomato",
+    "description": "tomato is famous in kashmir"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "name": "Mango",
+    "description": "maongo is famous in kashmir",
+    "type": "f"
+  },
+  {
+    "id": "2",
+    "name": "Apple",
+    "description": "Apple is famous in kashmir",
+    "type": "f"
+  },
+  {
+    "id": "3",
+    "name": "Orange",
+    "description": "Orange is famous in kashmir",
+    "type": "f"
+  },
+  {
+    "id": "4",
+    "name": "Grapes",
+    "description": "Grapes is famous in kashmir",
+    "type": "f"
+  },
+  {
+    "id": "5",
+    "name": "Banana",
+    "description": "Banana is famous in kashmir",
+    "type": "f"
+  },
+
+  {
+    "id": "1",
+    "name": "onion",
+    "description": "onion is famous in kashmir",
+    "type": "v"
+  },
+  {
+    "id": "2",
+    "name": "potato",
+    "description": "potato is famous in kashmir",
+    "type": "v"
+  },
+  {
+    "id": "3",
+    "name": "carrot",
+    "description": "carrot is famous in kashmir",
+    "type": "v"
+  },
+  {
+    "id": "4",
+    "name": "brinjal",
+    "description": "brinjal is famous in kashmir",
+    "type": "v"
+  },
+  {
+    "id": "5",
+    "name": "tomato",
+    "description": "tomato is famous in kashmir",
+    "type": "v"
+  }
+
+
+]
